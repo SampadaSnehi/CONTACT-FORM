@@ -1,0 +1,46 @@
+body{
+  background: #b6e0d5;
+}
+.upper{
+  background: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX31429302.jpg);
+  color:#fffceb;
+  width: 60%;
+  text-align: center;
+  margin: auto;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  padding: 3px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+form{
+  background: #f2f2f2;
+  padding: 4px;
+  width: 60%;
+  height: 450px;
+  margin: auto;
+  border: 1px solid #dedede;
+  border-top: none;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+}
+input[type = 'submit']{
+  width: 95%;
+  margin-left: 20px;
+  padding: 8px; 
+  background:#b6e0d5;
+  border: none;
+  font-family: 'Courier New', Courier, monospace;
+  color:white;
+  font-size: 20px;
+  font-weight: bold;
+}
+input[type= "text"],
+input[type = "email"],
+textarea{
+  width: 80%;
+  margin: 10px;
+  padding: 10px; 
+}
